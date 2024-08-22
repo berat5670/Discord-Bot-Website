@@ -63,11 +63,11 @@ const Header = ({ $, NavItems }) => {
         const banner = localStorage.getItem("$Award_close_banner");
         if (!banner) setBanner(true);
         const theme = localStorage.getItem("theme");
-        if (theme === "violet") setHue("hue-rotate-[230deg]");
-        if (theme === "blue") setHue("hue-rotate-[180deg]");
-        if (theme === "emerald") setHue("hue-rotate-[70deg]");
-        if (theme === "rose") setHue("hue-rotate-[330deg]");
-        if (theme === "amber") setHue("");
+        if (theme === "Mor") setHue("hue-rotate-[230deg]");
+        if (theme === "Mavi") setHue("hue-rotate-[180deg]");
+        if (theme === "Yeşil") setHue("hue-rotate-[70deg]");
+        if (theme === "Kırmızı") setHue("hue-rotate-[330deg]");
+        if (theme === "Turuncu") setHue("");
     }, []);
     
     return (
