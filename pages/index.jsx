@@ -13,7 +13,7 @@ export default function Index() {
           BRT Pro
         </p>
         <p className="animateHeader text-white text-opacity-50 text-center mt-5">
-       How about moderating your own server with Astra bot? Create your own free world and create your own playlist, experience this pleasure with the best sounds. 
+       How about moderating your own server with BRT Pro? Create your own free world and create your own playlist, experience this pleasure with the best sounds. 
 	  </p>
         <div className="animateHeader mt-10 flex flex-wrap items-center justify-center gap-x-4">
   
