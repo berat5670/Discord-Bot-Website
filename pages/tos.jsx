@@ -1,18 +1,18 @@
 export default function Tos() {
   return (
     <div>
-     <h2 className="mt-4 text-white font-bold text-3xl">Terms of Services</h2>
-      <p className="text-sm text-white/30 mb-1">Last Update: 20/05/2022 🆕️</p>
+     <h2 className="mt-4 text-white font-bold text-3xl">BRT Pro Şartlar</h2>
+      <p className="text-sm text-white/30 mb-1">Son Düzenleme Tarihi: 2024/08/23 🆕️</p>
   <div className="animateHeader text-white text-opacity-40 mt-5">
-<p>⊳ Every discord server can use the Astra bot for free, it is completely prohibited to sell or market for a fee.</p>
+<p>⊳ İlk Önce Botu Kullanmak İçiniz Oy Veriniz.</p>
 <div className="py-3"></div>
-<p>⊳ You cannot use bot commands to harm the bot.</p>
+<p>⊳ Ve Bota Erişmek İçin yardım Yazınız.</p>
 <div className="py-3"></div>
-<p>⊳ You may not use open source codes to harm other servers.</p>
+<p>⊳ Destek Sunucusuna Gelebilirsiniz.</p>
 <div className="py-3"></div>
-<p>⊳ You may not sell or market open source codes through other platforms.</p>
+<p>⊳ Destek Sunucusunda Kavga Etmek Veya Kötülemek Yasaktır.</p>
 <div className="py-3"></div>
-<p>⊳ While using the bot, you cannot use it in a way that harms other users for troll purposes.</p>
+<p>⊳ Botun Sahibi : sigmayes0012 .</p>
 <div className="py-3"></div>
 <p>⊳ To use certain discord bot commands, you need to vote for the <a className="text-white" href="https://top.gg/bot/924325576095973426/vote">Astra</a> bot at certain intervals.</p>
 </div>
