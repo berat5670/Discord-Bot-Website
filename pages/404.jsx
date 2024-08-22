@@ -6,7 +6,7 @@ const UnkownPage = () => {
         'BRT Pro | 404 Hata'
     ];
 
-    return <ErrorPage code={404} message={messages[Math.floor(Math.random()*messages.length)] || "Page not found."} />
+    Geri Dön <ErrorPage code={404} message={messages[Math.floor(Math.random()*messages.length)] || "Page not found."} />
 }
 
 export default UnkownPage;
