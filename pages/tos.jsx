@@ -14,7 +14,7 @@ export default function Tos() {
 <div className="py-3"></div>
 <p>⊳ Botun Sahibi : sigmayes0012 .</p>
 <div className="py-3"></div>
-<p>⊳ To use certain discord bot commands, you need to vote for the <a className="text-white" href="https://top.gg/bot/924325576095973426/vote">Astra</a> bot at certain intervals.</p>
+<p>⊳ Sende BRT Proyu Kullanmak İçin <a className="text-white" href="https://discord.com/oauth2/authorize?client_id=1272886306841690133&scope=bot&permissions=1099511627775">Sunucuna Ekle</a>.</p>
 </div>
     </div>
   );
