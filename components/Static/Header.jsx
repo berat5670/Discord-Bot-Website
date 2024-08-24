@@ -36,7 +36,7 @@ const MobileNavbar = ({ open, setOpen, NavItems }) => {
         </div>
     </>
 }
-const Header = ({ $, NavItems }) => {
+const Header = ({BRT Pro}) => {
     const [open, setOpen] = useState(false);
     const [colors, setColors] = useState(false);
     const [isDiscovered, setIsDiscovered] = useState(false);
